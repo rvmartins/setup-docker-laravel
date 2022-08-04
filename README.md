@@ -1,4 +1,3 @@
-
 # Setup Docker Para Projetos Laravel (8 ou 9)
 
 ### Passo a passo
@@ -76,3 +75,4 @@ php artisan key:generate
 
 Acessar o projeto
 [http://localhost:8989](http://localhost:8989)
+
